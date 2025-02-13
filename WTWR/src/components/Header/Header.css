@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  margin: 32px 40px 28px;
+}
+
+.header__logo {
+  margin-right: 24px;
+}
+
+.header__add-clothes-btn {
+  margin-left: auto;
+  margin-right: 20px;
+  border: none;
+  background-color: white;
+}
+
+.header__user-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
